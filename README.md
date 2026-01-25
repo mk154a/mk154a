@@ -19,7 +19,7 @@ Olá, sou Michael Keller
   https://k8automacao.com.br  
 
 - **Forum/Comunidade Servidor Roleplay**  
-  JavaScript • PHP • HTML • CSS • MySQL
+  JavaScript • PHP • HTML • CSS • MySQL  
   https://afterrp.com.br/  
 
 > Projetos hospedados externamente. Código-fonte não público.
