@@ -12,19 +12,15 @@ Olá, sou Michael Keller
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk154a&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
-# Portfólio (sites em produção)
+# Portfólio (sites produzidos)
 
-- **Site Institucional**  
+- **Site Empresarial**  
   HTML • CSS • JavaScript  
-  🔗 https://seusite.com  
+  https://k8automacao.com.br  
 
-- **Dashboard Administrativo**  
-  JavaScript • Python • MySQL  
-  🔗 https://painel.seusite.com  
-
-- **Landing Page**  
-  HTML • CSS  
-  🔗 https://landing.seusite.com  
+- **Forum/Comunidade Servidor Roleplay**  
+  JavaScript • PHP • HTML • CSS • MySQL
+  https://afterrp.com.br/  
 
 > Projetos hospedados externamente. Código-fonte não público.
 <div style="display: inline_block"><br>
