@@ -11,8 +11,22 @@ Olá, sou Michael Keller
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mk154a&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk154a&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+## 🌐 Portfólio (sites em produção)
 
-  <div style="display: inline_block"><br>
+- **Site Institucional**  
+  HTML • CSS • JavaScript  
+  🔗 https://seusite.com  
+
+- **Dashboard Administrativo**  
+  JavaScript • Python • MySQL  
+  🔗 https://painel.seusite.com  
+
+- **Landing Page**  
+  HTML • CSS  
+  🔗 https://landing.seusite.com  
+
+> Projetos hospedados externamente. Código-fonte não público.
+<div style="display: inline_block"><br>
   <img align="center" alt="Michael-MySql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Michael-Sqlite" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg">
   <img align="center" alt="Michael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
